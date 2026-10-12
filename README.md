@@ -1,5 +1,9 @@
 # atakhrf1
 
+<img width="1192" height="1068" alt="layout-5a" src="https://github.com/user-attachments/assets/168db6cb-6c5a-40ed-a7e9-d2dbb759ec0d" />
+<img width="1776" height="1068" alt="layout-6" src="https://github.com/user-attachments/assets/48665e72-7286-4c11-b1eb-50f3b1851245" />
+
+
 **ATAK plugin that turns a HackRF One plugged into your Android phone or tablet into a portable spectrum analyzer, drone/RF detection tool and RSSI direction finder, reporting to the ATAK map via Cursor-on-Target (CoT).**
 
 *Português: [README.pt-BR.md](README.pt-BR.md)*
