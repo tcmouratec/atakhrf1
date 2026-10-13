@@ -70,6 +70,8 @@ The panel has four tabs: **Scan | Hunt | AI | Catalog**. Works on tablets and ph
 
 If atakhrf1 is useful to you, you can support its development with a Pix donation (Brazil):
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/tiagoufbao)
+
 **Pix key (email):** `tiagoufba@gmail.com`
 
 ## Terms of use
