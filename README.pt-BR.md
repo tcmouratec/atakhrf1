@@ -66,6 +66,8 @@ O painel tem quatro abas: **Scan | Caça | IA | Catálogo**. Funciona em tablet 
 
 Se o atakhrf1 for útil para você, pode apoiar o desenvolvimento com uma doação por Pix:
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/tiagoufbao)
+
 **Chave Pix (e-mail):** `tiagoufba@gmail.com`
 
 ## Termos de uso
