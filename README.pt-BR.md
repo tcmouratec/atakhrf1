@@ -9,14 +9,14 @@
 
 ## Download
 
-Baixe o plugin assinado em **[Releases](../../releases/latest)**: `ATAK-Plugin-atakhrf1-<versão>-...-civ-release.apk`.
-Ele é assinado pelo Third Party Pipeline do TAK.gov, então carrega no **ATAK-CIV 5.6 da Play Store**.
+Baixe o plugin assinado em **[Releases](../../releases)**. Escolha o APK da versão do seu ATAK (o plugin só carrega na versão do ATAK para a qual foi compilado):
 
-1. Instale o APK no aparelho Android (`adb install -r <arquivo>.apk`, ou abra o arquivo no aparelho).
-2. Abra o ATAK, aceite o aviso de carregar o plugin e abra o **atakhrf1** na barra de ferramentas.
-3. Ligue o HackRF One (USB-C/OTG) e conceda a permissão USB.
+| Seu ATAK-CIV | Download |
+|---|---|
+| **5.7** | [v1.16.2](../../releases/tag/v1.16.2) |
+| **5.6** | [v1.16.1](../../releases/tag/v1.16.1) |
 
-> Se você instalou antes uma versão compilada localmente (debug), desinstale primeiro: a assinatura é outra.
+Os APKs são assinados pelo Third Party Pipeline do TAK.gov, então carregam no **ATAK-CIV da Play Store**.
 
 ## O que faz
 
