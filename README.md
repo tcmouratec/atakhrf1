@@ -13,14 +13,14 @@
 
 ## Download
 
-Get the signed plugin from **[Releases](../../releases/latest)**: `ATAK-Plugin-atakhrf1-<version>-...-civ-release.apk`.
-It is signed by the TAK.gov Third Party Pipeline, so it loads in the **Play Store ATAK-CIV 5.6**.
+Get the signed plugin from **[Releases](../../releases)**. Pick the APK that matches your ATAK version (a plugin only loads in the ATAK version it was built for):
 
-1. Install the APK on the Android device (`adb install -r <file>.apk`, or open it on the device).
-2. Open ATAK, accept the plugin load prompt, then open **atakhrf1** from the toolbar.
-3. Plug in the HackRF One (USB-C/OTG) and grant USB permission.
+| Your ATAK-CIV | Download |
+|---|---|
+| **5.7** | [v1.16.2](../../releases/tag/v1.16.2) |
+| **5.6** | [v1.16.1](../../releases/tag/v1.16.1) |
 
-> If you previously installed a locally built (debug) version, uninstall it first: the signature is different.
+The APKs are signed by the TAK.gov Third Party Pipeline, so they load in the **Play Store ATAK-CIV**.
 
 ## What it does
 
